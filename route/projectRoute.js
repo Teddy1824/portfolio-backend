@@ -30,7 +30,7 @@ let projects = [
     img: "https://i.postimg.cc/xjmZdDS9/Screenshot-from-2022-01-26-11-37-05.png",
     desc: "",
     lang: "HTML, CSS BOOTSTRAP,JavaScript",
-    live: "https://brave-brown-b7c68c.netlify.app",
+    live: "https://btempconvertor.netlify.app",
     github: "https://github.com/Teddy1824/Temp-Convertor",
   },
   {
